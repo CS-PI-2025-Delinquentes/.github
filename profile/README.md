@@ -23,7 +23,7 @@ Desenvolver uma plataforma full-stack para uma transportadora de pequeno porte, 
 | Dontpad             | Acesso rápido a links relevantes para o projeto                |
 | Notion              | Manual de processos e melhores práticas                        |
 
-## 🚀 Tecnologias Front-End
+## ⚛️ Tecnologias Front-End
 
 | Tecnologia        | Descrição                                                                 |
 |-------------------|---------------------------------------------------------------------------|
@@ -34,7 +34,12 @@ Desenvolver uma plataforma full-stack para uma transportadora de pequeno porte, 
 | Phosphor Icons    | Biblioteca de ícones |
 | Shadcn    | Biblioteca de componentes de UI |
 
-## 🚀 Tecnologias Back-End
-| Tecnologia        | Descrição                                                                 |
-|-------------------|---------------------------------------------------------------------------|
-| SpringBoot             |  |
+## 🍃 Tecnologias Back-End
+| Tecnologia  | Descrição                                                                          |
+| ----------- | ---------------------------------------------------------------------------------- |
+| Spring Boot | Framework Java para criar APIs e serviços back-end de forma rápida e simplificada. |
+| PostgreSQL  | Banco de dados relacional usado para armazenar informações de forma persistente.   |
+| H2 Database | Banco de dados em memória utilizado para testes e desenvolvimento local.           |
+| Maven       | Gerenciador de dependências e automação de build para projetos Java.               |
+| Cloudinary | CDN usada para hospedar e entregar imagens de forma rápida e otimizada. |
+
